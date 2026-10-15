@@ -1,0 +1,7 @@
+{
+  "policy_decision": "restrict",
+  "enforcement_action": "restrict",
+  "status": "access_restricted",
+  "pep_chain": "ZERO_TRUST_PEP",
+  "pep_action": "DROP"
+}

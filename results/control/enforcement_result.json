@@ -1,0 +1,7 @@
+{
+  "policy_decision": "retain",
+  "enforcement_action": "allow",
+  "status": "access_retained",
+  "pep_chain": "ZERO_TRUST_PEP",
+  "pep_action": "ACCEPT"
+}
